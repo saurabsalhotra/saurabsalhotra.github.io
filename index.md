@@ -21,7 +21,7 @@
 
 | Repository | Live App | Description |
 |------------|----------|-------------|
-| [Spacex Launch Details](https://github.com/saurabsalhotra/spacex) | not hosted | Using the spaceX graphql api to display launch data and allow for comparing any two launches |
+| [Spacex Launch Details](https://github.com/saurabsalhotra/spacex) | [Link](https://saurab-spacex.netlify.app/) | Using the spaceX graphql api to display launch data and allow for comparing any two launches |
 |[Trello Clone using Typescript](https://github.com/saurabsalhotra/typescript-trello-type-app) | [Link](https://saurab-trellotypescript.netlify.app/) | A basic trello like board built using Typescript |
 | [Firebase chat app](https://github.com/saurabsalhotra/flutter-firebase-chat-app) | not hosted | A simple flutter chat app that uses Firebases Realtime database |
 |[Nodejs without any libraries](https://github.com/saurabsalhotra/nodejs-without-any-libraries) | not hosted | An entire server was built using the inbuilt node.js API and no external libraries. |
