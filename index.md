@@ -2,7 +2,7 @@
 
 <br>
 
-## Interesting Repositories
+## Portfolio Projects
 
 | Repository | Live App | Description |
 |------------|----------|-------------|
@@ -15,7 +15,7 @@
 
 <br>
 
-## Projects
+## Professional Projects
 <b>Storysurf:</b> Storysurf is an app that lets you read short snackable content, it is developed using flutter and is available on both the App Store and Play Store. Learn more at https://storysurf.app.
 
 <b>EBWA:</b> The EBWA portal is a members only noticeboard developed using React and Node.js
