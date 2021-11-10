@@ -2,6 +2,19 @@
 
 <br>
 
+## Interesting Repositories
+
+| Repository | Live App | Description |
+|------------|----------|-------------|
+| [Spacex Launch Details](https://github.com/saurabsalhotra/spacex) | not hosted | Using the spaceX graphql api to display launch data and allow for comparing any two launches |
+|[Trello Clone using Typescript](https://github.com/saurabsalhotra/typescript-trello-type-app) | not hosted | A basic trello like board built using Typescript |
+| [Firebase chat app](https://github.com/saurabsalhotra/flutter-firebase-chat-app) | not hosted | A simple flutter chat app that uses Firebases Realtime database |
+|[Nodejs without any libraries](https://github.com/saurabsalhotra/nodejs-without-any-libraries) | not hosted | An entire server was built using the inbuilt node.js API and no external libraries. |
+| [Todo List](https://github.com/saurabsalhotra/simple-react-redux-router-todolist) | not hosted | A simple todo list app created using React and Redux |
+
+
+<br>
+
 ## Projects
 <b>Storysurf:</b> Storysurf is an app that lets you read short snackable content, it is developed using flutter and is available on both the App Store and Play Store. Learn more at https://storysurf.app.
 
