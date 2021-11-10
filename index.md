@@ -10,7 +10,7 @@
 |[Trello Clone using Typescript](https://github.com/saurabsalhotra/typescript-trello-type-app) | not hosted | A basic trello like board built using Typescript |
 | [Firebase chat app](https://github.com/saurabsalhotra/flutter-firebase-chat-app) | not hosted | A simple flutter chat app that uses Firebases Realtime database |
 |[Nodejs without any libraries](https://github.com/saurabsalhotra/nodejs-without-any-libraries) | not hosted | An entire server was built using the inbuilt node.js API and no external libraries. |
-| [Todo List](https://github.com/saurabsalhotra/simple-react-redux-router-todolist) | not hosted | A simple todo list app created using React and Redux |
+| [Todo List](https://github.com/saurabsalhotra/simple-react-redux-router-todolist) | [Link](https://saurab-simpletodolist.netlify.app/) | A simple todo list app created using React and Redux |
 
 
 <br>
