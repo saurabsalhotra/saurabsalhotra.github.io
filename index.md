@@ -10,10 +10,8 @@
 - Flutter (Bloc, Hive, Injectable, Retrofit, Dio, GetIt)
 
 ### Design Tools
-- Figma
-- Sketch
-- After Effects
-- Photoshop and Illustrator
+- Figma, Sketch
+- After Effects, Photoshop and Illustrator
 
 <br>
 
