@@ -1,0 +1,39 @@
+.App {
+  display:flex;
+  height:100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App h1, h2, h3{
+  margin: 10px 5px;
+  padding: 0;
+}
+
+.App h2, h3{
+  text-align:center;
+  color:rgb(98, 98, 98);
+  max-width:400px;
+}
+
+#typescript{
+  color:blue;
+}
+
+#flutter{
+  color:pink;
+}
+
+#dart{
+  color:red;
+}
+
+#react{
+  color:blueviolet;
+}
+
+#nodejs{
+  color:maroon;
+}
+
